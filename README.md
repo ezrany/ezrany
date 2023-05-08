@@ -6,4 +6,4 @@
 
 🌱 When I'm not in front of my computer, you'll likely find me pursuing my hobbies - capturing moments through photography 📸, creating visual stories through video 🎥, watching my favorite series 📺, or kicking a ball around ⚽.
 
-📫 How to reach me : email - e_n@me.com
+📫 How to reach me : e_n@me.com
