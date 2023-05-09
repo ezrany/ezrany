@@ -1,6 +1,6 @@
 # Hi, I'm Ezra! 👋
 
-👋 A Data Analyst who loves to dive into data and extract valuable insights.
+👋 I'm a Data Analyst who loves to dive into data and extract valuable insights.
 
 👀 My passion lies in Data and Business Analytics, where I leverage tools like SQL, Excel, Tableau, and Power BI for data analysis, manipulation, and visualisation.
 
