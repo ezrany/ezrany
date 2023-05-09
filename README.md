@@ -1,4 +1,4 @@
-# Hi there, I'm Ezra! 👋
+# Hi, I'm Ezra! 👋
 
 👋 A Data Analyst who loves to dive into data and extract valuable insights.
 
